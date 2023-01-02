@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VRPVillerius
-- 👀 I’m interested in Azure, AVB, PowerShell, Bicep
-- 🌱 I’m currently learning Azure, AVB, PowerShell, Bicep
+- 👀 I’m interested in Azure, AVD, PowerShell, Bicep
+- 🌱 I’m currently learning Azure, AVD, PowerShell, Bicep
 - 💞️ I’m looking to collaborate on all of the above
 - 📫 How to reach me ...
 
